@@ -1,2 +1,5 @@
-chatbot.ipynb -> Chatbot for Bash Scripting & Basic Math Operations
-Clinician.ipynb -> A prototype demonstrating how Large Language Models and Vector Databases can connect doctors and patients remotely. One model generates a case from the patient’s input; another generates a prescription by analyzing medical records. The doctor reviews and approves it, streamlining the process and improving remote accessibility.
+chatbot.ipynb 
+  -> Chatbot for Bash Scripting & Basic Math Operations
+Prompt_Engineering_using_LangChain.ipynb
+  -> Intro to langchain
+  -> How to write an effective prompt
